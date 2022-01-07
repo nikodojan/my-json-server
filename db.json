@@ -1,14 +1,1 @@
-{
-  "items": [
-    {
-      "id": 1,
-      "name": "some item",
-      "amount": 1
-    },
-    {
-      "id": 2,
-      "name": "another comment",
-      "amount": 1
-    }
-  ]
-}
+{"items":[{"id":1,"name":"item1"}]}
