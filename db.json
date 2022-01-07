@@ -2,8 +2,13 @@
   "items": [
     {
       "id": 1,
-      "name":"Item1"
-      "quantity":2
+      "name": "some item",
+      "amount": 1
+    },
+    {
+      "id": 2,
+      "name": "another comment",
+      "amount": 1
     }
   ]
 }
