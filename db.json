@@ -2,8 +2,8 @@
   "items": [
     {
       "id": 1,
-      "name":"name"
-      "quantity":"quantity"
+      "name":"Item1"
+      "quantity":2
     }
   ]
 }
